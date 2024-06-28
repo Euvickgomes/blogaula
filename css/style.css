@@ -83,6 +83,30 @@ h2{
     margin-bottom: 20px;
 }
 
+.tabela{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border: solid 8px #574CBA;
+}
+
+.cabecalho{
+    background-color: #574CBA;
+    color: #FADC28;
+}
+
+.dado1{
+    background-color: #FADC28;
+}
+
+.dado2{
+    background-color: #fff;
+}
+
+.dado3{
+    background-color: #FADC28;
+}
+
 footer{
     background-color: #FADC28;
     text-align: center;
